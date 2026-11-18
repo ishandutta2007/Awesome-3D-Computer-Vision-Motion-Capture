@@ -31,77 +31,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saashosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global 3D motion capture and computer vision kinematics market is estimated at approximately **$318M to $486M in 2025–2026**, projected to approach nearly **$1B by 2030** at a CAGR of ~12.5%–13.6%. The sector exhibits **moderate-to-high fragmentation**, where specialized legacy hardware giants (Vicon, Qualisys) dominate clinical biomechanics and AAA studios, while high-velocity AI markerless SaaS entrants (Move.ai, Plask, DeepMotion) compete vigorously in an un-concentrated, democratized tier that has spurred active M&A by enterprise graphics stalwarts like Autodesk and Runway.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Move.ai](https://move.ai)**  
-
-  Multi-camera and single-camera markerless AI motion capture platform extracting studio-grade 3D skeletal animations from standard video without suits or markers.
-
-
-
-- **[DeepMotion](https://deepmotion.com)**  
-
-  Cloud AI markerless motion capture suite converting 2D videos into physics-simulated full-body, hand, and facial 3D animations with automatic foot-locking.
-
-
-
-- **[Plask](https://plask.ai)**  
-
-  Browser-based AI motion capture and 3D keyframe editing studio for extracting, cleaning, and retargeting video motion directly onto custom 3D rigs.
-
-
-
-- **[Rokoko Studio](https://rokoko.com)**  
-
-  All-in-one motion capture software and Rokoko Vision cloud platform supporting inertial Smartsuits, Smartgloves, and single/dual-camera AI video tracking.
-
-
-
-- **[Kinetix](https://kinetix.tech)**  
-
-  No-code cloud AI platform and SDK for converting videos into 3D character emotes and integrating user-generated motion into games and virtual worlds.
-
-
-
-- **[RADiCAL Motion](https://radicalmotion.com)**  
-
-  Cloud-native AI computer vision platform providing real-time, browser-based 3D human pose estimation and multiplayer motion capture from standard webcams.
-
-
-
-- **[Wonder Dynamics (Autodesk Flow Studio)](https://wonderdynamics.com)**  
-
-  Cloud AI VFX studio that automatically detects actor performance from live-action footage, tracks cameras, and replaces actors with rigged CG characters.
-
-
-
-- **[Cascadeur](https://cascadeur.com)**  
-
-  Physics-assisted 3D keyframe animation software featuring cloud/AI-powered AutoPosing, video-to-mocap import, trajectory editing, and secondary motion tools.
-
-
-
-- **[Vicon Nexus & Shōgun](https://vicon.com)**  
-
-  Industry-standard optical motion capture hardware and cloud-connected software ecosystem for sub-millimeter life sciences, biomechanics, and virtual production tracking.
-
-
-
-- **[Qualisys Track Manager (QTM)](https://qualisys.com)**  
-
-  Precision optical and markerless motion capture platform offering cloud analytics and real-time streaming for sports biomechanics, robotics, and animation.
+| Company / Product | Size (Revenue / Valuation) | Pricing | Free Tier / Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Wonder Dynamics (Autodesk Flow Studio)](https://wonderdynamics.com)** | **$53B+ MCap** ($7.2B FY26 Rev, parent Autodesk) | **$7 to $10 / month** (Lite tier, billed annually/monthly) | **Free forever plan**: 300 credits/mo, 720p watermarked export; eligible university students get 2,100 credits/mo | Cloud AI VFX studio automatically detecting actor performance from video, tracking cameras, and replacing actors with rigged CG characters. |
+| **[RADiCAL Motion](https://radicalmotion.com)** | **$53B+ MCap** ($7.2B FY26 Rev, acquired by Autodesk) | **$8 / month** ($96/year legacy commercial tier; integrated into Autodesk Flow ecosystem) | **Legacy Free tier**: 24 hours of total playtime/processing per year with metered FBX exports | Cloud-native AI computer vision platform providing real-time 3D human pose estimation and multiplayer motion capture from standard webcams. |
+| **[Rokoko Studio](https://rokoko.com)** | **$80M+ Valuation** (~$15M funding, Naver Z backed) | **$12 / month** (Basic tier; $28/mo for Plus hardware tier) | **Free forever plan (Starter)**: 30s/mo Vision AI processing, unlimited recordings, FBX export, 3 actor profiles (no live stream/face capture) | All-in-one motion capture software and Rokoko Vision cloud platform supporting inertial Smartsuits, Smartgloves, and single/dual-camera video tracking. |
+| **[Vicon Nexus & Shōgun](https://vicon.com)** | **£47M (~$58M) MCap** (£44.8M Rev, parent Oxford Metrics LSE:OMG) | **$12,500+ / seat** (perpetual standalone/network license via enterprise quote) | **Free evaluation**: 30-day evaluation trial license available upon institutional/lab demonstration request | Industry-standard optical motion capture hardware and software ecosystem for sub-millimeter life sciences, biomechanics, and virtual production. |
+| **[Qualisys Track Manager (QTM)](https://qualisys.com)** | **390M SEK (~$38M) MCap** (~270M SEK Rev, Nasdaq Stockholm: QSYS) | **$8,000+ / lab** (departmental site license with unlimited seats via enterprise quote) | **Free evaluation**: Customized trial license and remote hardware demo available upon institutional request | Precision optical and markerless motion capture platform offering cloud analytics and real-time streaming for sports biomechanics and robotics. |
+| **[Cascadeur](https://cascadeur.com)** | **~$30M–$50M Est. Valuation** (Nekki subsidiary, $1.5M budget + Epic MegaGrant) | **$13 to $19 / month** (or $72–$96/year billed annually, Indie tier for <$100k revenue) | **Free forever plan**: Full core physics toolset, limited strictly to `.casc` format (no `.fbx`/`.usd` exports, non-commercial only) | Physics-assisted 3D keyframe animation software featuring AI AutoPosing, video-to-mocap import, trajectory editing, and secondary motion tools. |
+| **[Move.ai](https://move.ai)** | **$17.5M Funding** (£1.1M Rev, acquired by Oxford Metrics/Vicon) | **$18 / month** (Move One Starter tier, billed monthly) | **Free forever plan**: 30 one-time credits (~30s Gen-1 capture), up to 30-second clips, personal non-commercial use | Multi-camera and single-camera markerless AI motion capture platform extracting studio-grade 3D skeletal animations from standard video. |
+| **[Kinetix](https://kinetix.tech)** | **$11.6M Funding** (~$6.9M ARR, acquired by Runway) | **$15 / month** (starter SDK license / €0.15 per additional emote; enterprise for game studios) | **Free trial**: Developer sandbox with up to 10,000 free generated emotes during onboarding/trial period | Cloud AI platform and SDK for converting videos into 3D character emotes and integrating user-generated motion into games and virtual worlds. |
+| **[Plask](https://plask.ai)** | **$2.56M+ Funding** (Naver D2SF & Pre-Series A backed) | **$18 / month** (Standard tier, billed annually) | **Free forever plan**: 15 seconds daily motion capture generation limit, 1 GB cloud storage | Browser-based AI motion capture and 3D keyframe editing studio for extracting, cleaning, and retargeting video motion directly onto custom 3D rigs. |
+| **[DeepMotion](https://deepmotion.com)** | **$2.8M Funding** (Samsung Ventures & Bandai Namco 021 backed) | **$9 to $15 / month** (Starter / Animate 3D tier) | **Free forever plan**: 60 seconds/month (60 animation credits, up to 10s per clip, non-commercial use) | Cloud AI markerless motion capture suite converting 2D videos into physics-simulated full-body, hand, and facial 3D animations with foot-locking. |
 
 
 
