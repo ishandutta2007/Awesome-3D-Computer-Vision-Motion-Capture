@@ -3,7 +3,7 @@
 <div align="center">
   <p align="center">
     <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-    <a href="https://github.com/ishandutta2007/Awesome-3D-Computer-Vision-Motion-Capture/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-3D-Computer-Vision-Motion-Capture?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+    <a href="https://github.com/ishandutta2007/Awesome-3D-Computer-Vision-Motion-Capture/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-3D-Computer-Vision-Motion-Capture?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
     <a href="https://github.com/ishandutta2007/Awesome-3D-Computer-Vision-Motion-Capture/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-3D-Computer-Vision-Motion-Capture?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
     <a href="https://github.com/ishandutta2007/Awesome-3D-Computer-Vision-Motion-Capture/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-3D-Computer-Vision-Motion-Capture?style=flat-square" alt="GitHub Issues"/></a>
     <a href="https://github.com/ishandutta2007/Awesome-3D-Computer-Vision-Motion-Capture/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-3D-Computer-Vision-Motion-Capture?style=flat-square&color=green" alt="License"/></a>
@@ -81,98 +81,98 @@ The table below is sorted by **Company Size / Valuation (Descending)**:
 
 ### ⭐ Top Repositories (Ranked by Stars)
 
-Repositories below are sorted by **GitHub Stars (Descending)**. Every project includes a real-time star badge linking directly to that repository's stargazers page:
+Repositories below are sorted by **GitHub_Stars (Descending)**. Every project includes a real-time Stars_Badge linking directly to that repository's stargazers page:
 
 1. **[MediaPipe (Google AI Edge)](https://github.com/google-ai-edge/mediapipe)**  
-   [![GitHub Stars](https://img.shields.io/github/stars/google-ai-edge/mediapipe?style=social&color=white)](https://github.com/google-ai-edge/mediapipe/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/google-ai-edge/mediapipe?style=social&color=white)](https://github.com/google-ai-edge/mediapipe/stargazers)  
    Cross-platform ML framework featuring real-time 33-keypoint 3D world-space human pose landmark tracking, holistic full-body/hand/face estimation, and WebAssembly execution.
 
 2. **[Open3D](https://github.com/isl-org/Open3D)**  
-   [![GitHub Stars](https://img.shields.io/github/stars/isl-org/Open3D?style=social&color=white)](https://github.com/isl-org/Open3D/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/isl-org/Open3D?style=social&color=white)](https://github.com/isl-org/Open3D/stargazers)  
    Modern open-source library for 3D data processing, point cloud alignment, mesh reconstruction, and 3D visualization essential in multi-view markerless calibration.
 
 3. **[COLMAP](https://github.com/colmap/colmap)**  
-   [![GitHub Stars](https://img.shields.io/github/stars/colmap/colmap?style=social&color=white)](https://github.com/colmap/colmap/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/colmap/colmap?style=social&color=white)](https://github.com/colmap/colmap/stargazers)  
    General-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline powering camera parameter calibration and spatial localization for multi-camera mocap rigs.
 
 4. **[Nerfstudio](https://github.com/nerfstudio-project/nerfstudio)**  
-   [![GitHub Stars](https://img.shields.io/github/stars/nerfstudio-project/nerfstudio?style=social&color=white)](https://github.com/nerfstudio-project/nerfstudio/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/nerfstudio-project/nerfstudio?style=social&color=white)](https://github.com/nerfstudio-project/nerfstudio/stargazers)  
    Modular framework for Neural Radiance Fields (NeRF) and 3D Gaussian Splatting (3DGS) pipelines, often combined with dynamic human motion capture for photorealistic view synthesis.
 
 5. **[FreeMoCap](https://github.com/freemocap/freemocap)**  
-   [![GitHub Stars](https://img.shields.io/github/stars/freemocap/freemocap?style=social&color=white)](https://github.com/freemocap/freemocap/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/freemocap/freemocap?style=social&color=white)](https://github.com/freemocap/freemocap/stargazers)  
    Free, hardware-agnostic open-source (`AGPL-3.0`) multi-camera markerless motion capture system delivering research-grade 3D full-body, finger, and face tracking on commodity webcams.
 
 6. **[AlphaPose](https://github.com/MVIG-SJTU/AlphaPose)**  
-   [![GitHub Stars](https://img.shields.io/github/stars/MVIG-SJTU/AlphaPose?style=social&color=white)](https://github.com/MVIG-SJTU/AlphaPose/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/MVIG-SJTU/AlphaPose?style=social&color=white)](https://github.com/MVIG-SJTU/AlphaPose/stargazers)  
    Accurate multi-person real-time 2D/3D whole-body pose estimation system delivering high precision bounding box tracking and 3D keypoint triangulation.
 
 7. **[MMPose (OpenMMLab)](https://github.com/open-mmlab/mmpose)**  
-   [![GitHub Stars](https://img.shields.io/github/stars/open-mmlab/mmpose?style=social&color=white)](https://github.com/open-mmlab/mmpose/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/open-mmlab/mmpose?style=social&color=white)](https://github.com/open-mmlab/mmpose/stargazers)  
    Open-source PyTorch-based toolbox for 2D/3D human pose estimation, whole-body keypoint detection, multi-view triangulation, and RTMPose edge deployment.
 
 8. **[EasyMocap (zju3dv)](https://github.com/zju3dv/EasyMocap)**  
-   [![GitHub Stars](https://img.shields.io/github/stars/zju3dv/EasyMocap?style=social&color=white)](https://github.com/zju3dv/EasyMocap/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/zju3dv/EasyMocap?style=social&color=white)](https://github.com/zju3dv/EasyMocap/stargazers)  
    Comprehensive 3D computer vision toolbox for markerless multi-camera human motion capture, synchronized camera calibration, and SMPL/SMPL-X/MANO fitting.
 
 9. **[VIBE (Video Inference for Body Pose and Shape Estimation)](https://github.com/mkocabas/VIBE)**  
-   [![GitHub Stars](https://img.shields.io/github/stars/mkocabas/VIBE?style=social&color=white)](https://github.com/mkocabas/VIBE/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/mkocabas/VIBE?style=social&color=white)](https://github.com/mkocabas/VIBE/stargazers)  
    Seminal video-based human pose and shape estimation framework using adversarial learning with AMASS motion capture data to produce smooth, temporally consistent 3D motions.
 
 10. **[SMPL-X (vchoutas/smplx)](https://github.com/vchoutas/smplx)**  
-    [![GitHub Stars](https://img.shields.io/github/stars/vchoutas/smplx?style=social&color=white)](https://github.com/vchoutas/smplx/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/vchoutas/smplx?style=social&color=white)](https://github.com/vchoutas/smplx/stargazers)  
     Official PyTorch implementation of the expressive SMPL-X parametric human body model (body, face, and hands jointly modeled) with GPU acceleration and unified AMASS loaders.
 
 11. **[GVHMR (Gravity-View Human Motion Recovery)](https://github.com/zju3dv/GVHMR)**  
-    [![GitHub Stars](https://img.shields.io/github/stars/zju3dv/GVHMR?style=social&color=white)](https://github.com/zju3dv/GVHMR/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/zju3dv/GVHMR?style=social&color=white)](https://github.com/zju3dv/GVHMR/stargazers)  
     Monocular 3D human motion recovery framework operating in a gravity-view coordinate system to reconstruct globally stable, drift-free world-grounded human animations.
 
 12. **[FrankMocap (Facebook Research)](https://github.com/facebookresearch/frankmocap)**  
-    [![GitHub Stars](https://img.shields.io/github/stars/facebookresearch/frankmocap?style=social&color=white)](https://github.com/facebookresearch/frankmocap/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/facebookresearch/frankmocap?style=social&color=white)](https://github.com/facebookresearch/frankmocap/stargazers)  
     Fast and accurate monocular 3D motion capture system for body pose, hand pose, and whole-body 3D mesh estimation from in-the-wild video.
 
 13. **[SMPLify-X (vchoutas/smplify-x)](https://github.com/vchoutas/smplify-x)**  
-    [![GitHub Stars](https://img.shields.io/github/stars/vchoutas/smplify-x?style=social&color=white)](https://github.com/vchoutas/smplify-x/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/vchoutas/smplify-x?style=social&color=white)](https://github.com/vchoutas/smplify-x/stargazers)  
     Optimization pipeline for fitting expressive 3D human body models (SMPL-X, SMPL, FLAME, MANO) to single 2D RGB images or 2D keypoints.
 
 14. **[4D-Humans / HMR 2.0](https://github.com/shubham-goel/4D-Humans)**  
-    [![GitHub Stars](https://img.shields.io/github/stars/shubham-goel/4D-Humans?style=social&color=white)](https://github.com/shubham-goel/4D-Humans/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/shubham-goel/4D-Humans?style=social&color=white)](https://github.com/shubham-goel/4D-Humans/stargazers)  
     State-of-the-art Transformer-based 3D human mesh recovery and tracking model that reconstructs accurate 3D poses and shapes across dynamic video sequences.
 
 15. **[HMR (End-to-end Recovery of Human Shape and Pose)](https://github.com/akanazawa/hmr)**  
-    [![GitHub Stars](https://img.shields.io/github/stars/akanazawa/hmr?style=social&color=white)](https://github.com/akanazawa/hmr/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/akanazawa/hmr?style=social&color=white)](https://github.com/akanazawa/hmr/stargazers)  
     Foundational deep learning framework for end-to-end 3D human shape and mesh recovery directly from RGB images without paired 3D ground truth.
 
 16. **[ROMP (Monocular One-Stage Multi-Person 3D Mesh Recovery)](https://github.com/Arthur151/ROMP)**  
-    [![GitHub Stars](https://img.shields.io/github/stars/Arthur151/ROMP?style=social&color=white)](https://github.com/Arthur151/ROMP/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/Arthur151/ROMP?style=social&color=white)](https://github.com/Arthur151/ROMP/stargazers)  
     Real-time, one-stage monocular multi-person 3D mesh recovery framework capable of parsing crowded scenes into SMPL meshes at over 30 FPS.
 
 17. **[WHAM (World-Grounded Humans with Accurate Motion)](https://github.com/yohanshin/WHAM)**  
-    [![GitHub Stars](https://img.shields.io/github/stars/yohanshin/WHAM?style=social&color=white)](https://github.com/yohanshin/WHAM/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/yohanshin/WHAM?style=social&color=white)](https://github.com/yohanshin/WHAM/stargazers)  
     CVPR 2024 monocular video-to-3D human motion recovery system reconstructing globally consistent 3D trajectories and foot contacts in world coordinates.
 
 18. **[Orange-3DV-Team/MoCha](https://github.com/Orange-3DV-Team/MoCha)**  
-    [![GitHub Stars](https://img.shields.io/github/stars/Orange-3DV-Team/MoCha?style=social&color=white)](https://github.com/Orange-3DV-Team/MoCha/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/Orange-3DV-Team/MoCha?style=social&color=white)](https://github.com/Orange-3DV-Team/MoCha/stargazers)  
     End-to-end video character replacement model built on Wan2.1 that swaps actors from a single first-frame mask without skeleton guidance while preserving environmental lighting and shadows.
 
 19. **[SPIN (SMPL Optimization in the Loop)](https://github.com/nkolot/SPIN)**  
-    [![GitHub Stars](https://img.shields.io/github/stars/nkolot/SPIN?style=social&color=white)](https://github.com/nkolot/SPIN/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/nkolot/SPIN?style=social&color=white)](https://github.com/nkolot/SPIN/stargazers)  
     Collaborative human mesh recovery framework combining neural network predictions with iterative optimization directly in the training loop.
 
 20. **[Pose2Sim](https://github.com/perfanalytics/pose2sim)**  
-    [![GitHub Stars](https://img.shields.io/github/stars/perfanalytics/pose2sim?style=social&color=white)](https://github.com/perfanalytics/pose2sim/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/perfanalytics/pose2sim?style=social&color=white)](https://github.com/perfanalytics/pose2sim/stargazers)  
     Open-source markerless kinematics pipeline that triangulates 2D computer vision pose estimates from calibrated cameras into 3D OpenSim musculoskeletal models and Blender rigs.
 
 21. **[Anipose](https://github.com/lambdaloop/anipose)**  
-    [![GitHub Stars](https://img.shields.io/github/stars/lambdaloop/anipose?style=social&color=white)](https://github.com/lambdaloop/anipose/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/lambdaloop/anipose?style=social&color=white)](https://github.com/lambdaloop/anipose/stargazers)  
     Python toolkit for markerless multi-camera calibration, 3D keypoint triangulation, and spatio-temporal filtering across humans, animals, and robotics.
 
 22. **[PARE (Part Attention Regressor for 3D Human Body)](https://github.com/mkocabas/PARE)**  
-    [![GitHub Stars](https://img.shields.io/github/stars/mkocabas/PARE?style=social&color=white)](https://github.com/mkocabas/PARE/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/mkocabas/PARE?style=social&color=white)](https://github.com/mkocabas/PARE/stargazers)  
     Robust 3D body pose estimation network leveraging body-part attention to recover accurate 3D meshes even under severe occlusions.
 
 23. **[OpenCap Core](https://github.com/stanfordnmbl/opencap-core)**  
-    [![GitHub Stars](https://img.shields.io/github/stars/stanfordnmbl/opencap-core?style=social&color=white)](https://github.com/stanfordnmbl/opencap-core/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/stanfordnmbl/opencap-core?style=social&color=white)](https://github.com/stanfordnmbl/opencap-core/stargazers)  
     Stanford NMBL's markerless motion capture and musculoskeletal dynamics pipeline estimating validated 3D human movement kinematics (`*.trc`, `*.mot`, `*.osim`) from standard smartphone video.
 
 ---
@@ -193,7 +193,7 @@ Contributions are welcome from the 3D computer vision and mocap community! 🎉
 
 1. 🍴 **Fork** this repository.
 2. 🌿 **Create a Branch**: `git checkout -b feature/add-new-mocap-tool`
-3. ✏️ **Add/Edit Entries**: Follow the formatting conventions in this `README.md` (include project name, official URL, short description, and pricing/star badge).
+3. ✏️ **Add/Edit Entries**: Follow the formatting conventions in this `README.md` (include project name, official URL, short description, and pricing/Stars_Badge).
 4. 🚀 **Submit a Pull Request**: Provide a short, factual explanation of the addition.
 
 ---
